@@ -2,6 +2,7 @@
     width: 99%;
     height: auto;
     border: 5px solid #000000;
+    margin: 0 5px;
     display: flex;
     justify-content: space-between;
 }
